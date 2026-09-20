@@ -1,3 +1,5 @@
+
+
 # Haku Fumomo - 个人主页
 
 一个基于 Nuxt 4 + Vue 3 + Tailwind CSS 构建的现代化个人主页，支持 RSS 订阅文章功能。
@@ -81,7 +83,6 @@ vercel --prod
 ```typescript
 personal: {
   name: "你的名字",
-  nickname: "昵称",
   bio: "个人简介",
   avatar: "头像URL",
   social: {
